@@ -1,0 +1,12 @@
+directories:
+  output: distDefects
+  buildResources: build
+appId: com.multitabak.removeDefect
+productName: removeDefects Soft MT
+win:
+  target:
+    - target: nsis
+      arch:
+        - x64
+files: []
+electronVersion: 25.5.0
